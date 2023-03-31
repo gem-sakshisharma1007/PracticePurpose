@@ -1,0 +1,4 @@
+this is second file in the folder.
+It is made after initializing the git repository.
+Also for practice!
+
